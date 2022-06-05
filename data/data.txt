@@ -1,0 +1,4 @@
+judul 	: Konsultasi
+pengarang 	: PP
+penerbit 	: ddd
+genre 	: 3333
